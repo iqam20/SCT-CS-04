@@ -1,0 +1,10 @@
+=== Keyboard Event Logger ===
+Press some keys...
+
+Key Pressed: H
+Key Pressed: e
+Key Pressed: l
+Key Pressed: l
+Key Pressed: o
+
+Keys logged to file: key_log.txt
